@@ -1,0 +1,6 @@
+Strategies:
+[a, b, c, d, e, f, g, h, i, j, k]
+Districts Won:
+[10, 11, 8, 6, 14, 11, 11, 14, 18, 7, 9]
+Districts Lost:
+[10, 9, 9, 18, 10, 10, 9, 10, 20, 7, 7]
